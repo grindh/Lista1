@@ -1,179 +1,431 @@
 #EXTM3U
-#EXTINF:-1,iptv free list:LAT: A&E
-http://scrapehost.com:8080/123456/654321/43741
-#EXTINF:-1,iptv free list:LAT: AMC
-http://scrapehost.com:8080/123456/654321/82172
-#EXTINF:-1,iptv free list:LAT: Animal Planet
-http://scrapehost.com:8080/123456/654321/43739
-#EXTINF:-1,iptv free list:LAT: AZ Cinema
-http://scrapehost.com:8080/123456/654321/47843
-#EXTINF:-1,iptv free list:LAT: AZ Corazon
-http://scrapehost.com:8080/123456/654321/47841
-#EXTINF:-1,iptv free list:LAT: Az Mundo
-http://scrapehost.com:8080/123456/654321/47840
-#EXTINF:-1,iptv free list:LAT: Azteca 7
-http://scrapehost.com:8080/123456/654321/47839
-#EXTINF:-1,iptv free list:LAT: ADN 40
-http://scrapehost.com:8080/123456/654321/82616
-#EXTINF:-1,iptv free list:LAT: AMERICA TV
-http://scrapehost.com:8080/123456/654321/82617
-#EXTINF:-1,iptv free list:LAT: ANTENA 3
-http://scrapehost.com:8080/123456/654321/82618
-#EXTINF:-1,iptv free list:LAT: AXN
-http://scrapehost.com:8080/123456/654321/82620
-#EXTINF:-1,iptv free list:LAT: Canal De Las Estrellas
-http://scrapehost.com:8080/123456/654321/92006
-#EXTINF:-1,iptv free list:LAT: Caracol 
-http://scrapehost.com:8080/123456/654321/47837
-#EXTINF:-1,iptv free list:LAT: CINE CANAL
-http://scrapehost.com:8080/123456/654321/82622
-#EXTINF:-1,iptv free list:LAT: Cine Latino
-http://scrapehost.com:8080/123456/654321/47836
-#EXTINF:-1,iptv free list:LAT: CNN
-http://scrapehost.com:8080/123456/654321/82621
-#EXTINF:-1,iptv free list:LAT: Comedy Central
-http://scrapehost.com:8080/123456/654321/43737
-#EXTINF:-1,iptv free list:LAT: DE PELICULA CLASICO
-http://scrapehost.com:8080/123456/654321/82624
-#EXTINF:-1,iptv free list:LAT: De Pelicula HD
-http://scrapehost.com:8080/123456/654321/47833
-#EXTINF:-1,iptv free list:LAT: Discovery Channel
-http://scrapehost.com:8080/123456/654321/43736
-#EXTINF:-1,iptv free list:LAT: Discovery Civilization
-http://scrapehost.com:8080/123456/654321/43731
-#EXTINF:-1,iptv free list:LAT: Discovery Familia
-http://scrapehost.com:8080/123456/654321/91985
-#EXTINF:-1,iptv free list:LAT: Discovery H&H
-http://scrapehost.com:8080/123456/654321/43730
-#EXTINF:-1,iptv free list:LAT: Discovery ID
-http://scrapehost.com:8080/123456/654321/43729
-#EXTINF:-1,iptv free list:LAT: Discovery Science
-http://scrapehost.com:8080/123456/654321/91986
-#EXTINF:-1,iptv free list:LAT: Discovery TLC
-http://scrapehost.com:8080/123456/654321/43727
-#EXTINF:-1,iptv free list:LAT: Discovery Turbo
-http://scrapehost.com:8080/123456/654321/43726
-#EXTINF:-1,iptv free list:LAT: Discovery World
-http://scrapehost.com:8080/123456/654321/43725
-#EXTINF:-1,iptv free list:LAT: E!
-http://scrapehost.com:8080/123456/654321/43724
-#EXTINF:-1,iptv free list:LAT: EstrellaTV
-http://scrapehost.com:8080/123456/654321/91987
-#EXTINF:-1,iptv free list:LAT: Food Network
-http://scrapehost.com:8080/123456/654321/43722
-#EXTINF:-1,iptv free list:LAT: Foro TV
-http://scrapehost.com:8080/123456/654321/91988
-#EXTINF:-1,iptv free list:LAT: FOX
-http://scrapehost.com:8080/123456/654321/43721
-#EXTINF:-1,iptv free list:LAT: Golden Edge
-http://scrapehost.com:8080/123456/654321/47831
-#EXTINF:-1,iptv free list:LAT: Galavision 
-http://scrapehost.com:8080/123456/654321/107390
-#EXTINF:-1,iptv free list:LAT: H2
-http://scrapehost.com:8080/123456/654321/43720
-#EXTINF:-1,iptv free list:LAT: HISTORIA HD
-http://scrapehost.com:8080/123456/654321/43719
-#EXTINF:-1,iptv free list:LAT: Investigacion Discovery
-http://scrapehost.com:8080/123456/654321/43716
-#EXTINF:-1,iptv free list:LAT: Lifetime
-http://scrapehost.com:8080/123456/654321/43715
-#EXTINF:-1,iptv free list:LAT: Milenio TV 
-http://scrapehost.com:8080/123456/654321/69666
-#EXTINF:-1,iptv free list:LAT: MTV
-http://scrapehost.com:8080/123456/654321/43713
-#EXTINF:-1,iptv free list:LAT: MTV Live
-http://scrapehost.com:8080/123456/654321/43711
-#EXTINF:-1,iptv free list:LAT: Nat Geo
-http://scrapehost.com:8080/123456/654321/43708
-#EXTINF:-1,iptv free list:LAT: Nat Geo Wild
-http://scrapehost.com:8080/123456/654321/43707
-#EXTINF:-1,iptv free list:LAT: NATIONAL GEOGRAPHIC HD
-http://scrapehost.com:8080/123456/654321/43709
-#EXTINF:-1,iptv free list:LAT: Pasiones
-http://scrapehost.com:8080/123456/654321/91989
-#EXTINF:-1,iptv free list:LAT: RCN TELENOVELAS
-http://scrapehost.com:8080/123456/654321/92035
-#EXTINF:-1,iptv free list:LAT: SYFY
-http://scrapehost.com:8080/123456/654321/43705
-#EXTINF:-1,iptv free list:LAT: TBS
-http://scrapehost.com:8080/123456/654321/43704
-#EXTINF:-1,iptv free list:LAT: TCM
-http://scrapehost.com:8080/123456/654321/43703
-#EXTINF:-1,iptv free list:LAT: TELEMUNDO 51 MIAMI
-http://scrapehost.com:8080/123456/654321/70159
-#EXTINF:-1,iptv free list:LAT: Televisa Monterey
-http://scrapehost.com:8080/123456/654321/92005
-#EXTINF:-1,iptv free list:LAT: Televisa Pueblo HD
-http://scrapehost.com:8080/123456/654321/69382
-#EXTINF:-1,iptv free list:LAT: TLC Discovery
-http://scrapehost.com:8080/123456/654321/43701
-#EXTINF:-1,iptv free list:LAT: TNT
-http://scrapehost.com:8080/123456/654321/43699
-#EXTINF:-1,iptv free list:LAT: TNT Series
-http://scrapehost.com:8080/123456/654321/43700
-#EXTINF:-1,iptv free list:LAT: TRUtv
-http://scrapehost.com:8080/123456/654321/43698
-#EXTINF:-1,iptv free list:LAT: UNIMAS MIAMI
-http://scrapehost.com:8080/123456/654321/70176
-#EXTINF:-1,iptv free list:LAT: Universal Channel
-http://scrapehost.com:8080/123456/654321/43695
-#EXTINF:-1,iptv free list:LAT: Univision
-http://scrapehost.com:8080/123456/654321/24983
-#EXTINF:-1,iptv free list:LAT: Warner
-http://scrapehost.com:8080/123456/654321/43693
-#EXTINF:-1,iptv free list:LAT: Baby tv
-http://scrapehost.com:8080/123456/654321/43780
-#EXTINF:-1,iptv free list:LAT: Boing
-http://scrapehost.com:8080/123456/654321/115387
-#EXTINF:-1,iptv free list:LAT: Boomerang
-http://scrapehost.com:8080/123456/654321/43778
-#EXTINF:-1,iptv free list:LAT: Cartoon Network
-http://scrapehost.com:8080/123456/654321/43777
-#EXTINF:-1,iptv free list:LAT: Cartoon Network | Mexico
-http://scrapehost.com:8080/123456/654321/140608
-#EXTINF:-1,iptv free list:LAT: Disney XD
-http://scrapehost.com:8080/123456/654321/43732
-#EXTINF:-1,iptv free list:LAT: Disney XD | Mexico
-http://scrapehost.com:8080/123456/654321/140607
-#EXTINF:-1,iptv free list:LAT: Disney Jr
-http://scrapehost.com:8080/123456/654321/43733
-#EXTINF:-1,iptv free list:LAT: Disney Channel
-http://scrapehost.com:8080/123456/654321/43776
-#EXTINF:-1,iptv free list:LAT: Disney Channel | Mexico
-http://scrapehost.com:8080/123456/654321/140612
-#EXTINF:-1,iptv free list:LAT: Discovery Kids
-http://scrapehost.com:8080/123456/654321/43775
-#EXTINF:-1,iptv free list:LAT: Nicktoons
-http://scrapehost.com:8080/123456/654321/43769
-#EXTINF:-1,iptv free list:LAT: Nickelodeon
-http://scrapehost.com:8080/123456/654321/43770
-#EXTINF:-1,iptv free list:LAT: Nickelodeon | Mexico
-http://scrapehost.com:8080/123456/654321/140610
-#EXTINF:-1,iptv free list:LAT: Nick
-http://scrapehost.com:8080/123456/654321/43773
-#EXTINF:-1,iptv free list:LAT: Nick 2
-http://scrapehost.com:8080/123456/654321/43772
-#EXTINF:-1,iptv free list:LAT: Nick 2 | Mexico
-http://scrapehost.com:8080/123456/654321/140654
-#EXTINF:-1,iptv free list:LAT: Nick Jr.
-http://scrapehost.com:8080/123456/654321/43771
-#EXTINF:-1,iptv free list:LAT: Nick Jr. | Mexico
-http://scrapehost.com:8080/123456/654321/140613
-#EXTINF:-1,iptv free list:LAT: NickToons | Mexico
-http://scrapehost.com:8080/123456/654321/140611
-#EXTINF:-1,iptv free list:LAT: Nat Geo Kids
-http://scrapehost.com:8080/123456/654321/43774
-#EXTINF:-1,iptv free list:LAT: Nat Geo Kids | Mexico
-http://scrapehost.com:8080/123456/654321/140518
-#EXTINF:-1,iptv free list:LAT: Nat Geo Kids | Mexico
-http://scrapehost.com:8080/123456/654321/140634
-#EXTINF:-1,iptv free list:LAT: Tooncast
-http://scrapehost.com:8080/123456/654321/43767
-#EXTINF:-1,iptv free list:LAT: Tooncast | Mexico
-http://scrapehost.com:8080/123456/654321/140605
-#EXTINF:-1,iptv free list:LAT: CNN ESPAÑOL
-http://scrapehost.com:8080/123456/654321/69463
-#EXTINF:-1,iptv free list:LAT: CNN International.
-http://scrapehost.com:8080/123456/654321/69462
-#EXTINF:-1,iptv free list:LAT: TELEVISA
-http://scrapehost.com:8080/123456/654321/69534
+#EXTINF:-1,iptv free list/LA: TV5 MONDE LATINO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20089
+#EXTINF:-1,iptv free list/LA: TELEMUNDO EAST
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20427
+#EXTINF:-1,iptv free list/LA: TELEMUNDO WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52876
+#EXTINF:-1,iptv free list/LA: TELEMUNDO PUERTO RICO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52986
+#EXTINF:-1,iptv free list/LA: TELEMUNDO MIAMI HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/385649
+#EXTINF:-1,iptv free list/LA: TELEMUNDO LAS VEGAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20254
+#EXTINF:-1,iptv free list/LA: TELEMUNDO PHOENIX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20305
+#EXTINF:-1,iptv free list/LA: TELEMUNDO NEW YORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51867
+#EXTINF:-1,iptv free list/LA: TELEMUNDO INTERNATIONAL HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52225
+#EXTINF:-1,iptv free list/LA: UNIVISION TDN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20115
+#EXTINF:-1,iptv free list/LA: UNIVISION PUERTO RICO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20166
+#EXTINF:-1,iptv free list/LA: UNIVISION WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51869
+#EXTINF:-1,iptv free list/LA: UNIVISION EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51870
+#EXTINF:-1,iptv free list/LA: UNIVISION TELENOVELAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52224
+#EXTINF:-1,iptv free list/LA: UNIVISION CANADA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/21026
+#EXTINF:-1,iptv free list/LA: MEGA TV Miami 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/384877
+#EXTINF:-1,iptv free list/LA: NBC UNIVERSO HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/384878
+#EXTINF:-1,iptv free list/LA: UNIMAS NEW YORK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51873
+#EXTINF:-1,iptv free list/LA: GALAVISION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/51872
+#EXTINF:-1,iptv free list/LA: HBO WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20351
+#EXTINF:-1,iptv free list/LA: HBO SIGNATURE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20352
+#EXTINF:-1,iptv free list/LA: HBO PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20354
+#EXTINF:-1,iptv free list/LA: HBO FAMILY HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20355
+#EXTINF:-1,iptv free list/LA: HBO EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20356
+#EXTINF:-1,iptv free list/LA: HBO CHILE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20083
+#EXTINF:-1,iptv free list/LA: HBO 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20288
+#EXTINF:-1,iptv free list/LA: H2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20258
+#EXTINF:-1,iptv free list/LA: FX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20264
+#EXTINF:-1,iptv free list/LA: FOX SERIES
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20276
+#EXTINF:-1,iptv free list/LA: FOX MOVIES
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20281
+#EXTINF:-1,iptv free list/LA: FOX LIFE ES
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20270
+#EXTINF:-1,iptv free list/LA: FOX FAMILY
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20259
+#EXTINF:-1,iptv free list/LA: FOX COMEDY
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20230
+#EXTINF:-1,iptv free list/LA: FOX CLASSIC
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20271
+#EXTINF:-1,iptv free list/LA: FOX CINEMA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20277
+#EXTINF:-1,iptv free list/LA: FOX ACTION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20282
+#EXTINF:-1,iptv free list/LA: FOX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20266
+#EXTINF:-1,iptv free list/LA: DISCOVERY KIDS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20149
+#EXTINF:-1,iptv free list/LA: DISCOVERY TURBO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20275
+#EXTINF:-1,iptv free list/LA: DISCOVERY THEATER
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20104
+#EXTINF:-1,iptv free list/LA: DISCOVERY SCIENCE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20078
+#EXTINF:-1,iptv free list/LA: DISCOVERY H&H
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20280
+#EXTINF:-1,iptv free list/LA: DISCOVERY CIVILIZATION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20278
+#EXTINF:-1,iptv free list/LA: DISCOVERY CHANNEL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20226
+#EXTINF:-1,iptv free list/LA: WARNER
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20232
+#EXTINF:-1,iptv free list/LA: VH1 CLASSICS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20155
+#EXTINF:-1,iptv free list/LA: VH1 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20424
+#EXTINF:-1,iptv free list/LA: CINE LATINO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20156
+#EXTINF:-1,iptv free list/LA: UNIVERSAL CHANNEL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20242
+#EXTINF:-1,iptv free list/LA: TRU TV MX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20239
+#EXTINF:-1,iptv free list/LA: TBS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20001
+#EXTINF:-1,iptv free list/LA: TNT SERIES
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20245
+#EXTINF:-1,iptv free list/LA: TNT HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20237
+#EXTINF:-1,iptv free list/LA: TLC MEX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20244
+#EXTINF:-1,iptv free list/LA: TCM
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20252
+#EXTINF:-1,iptv free list/LA: TBS VERY FUNNY
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20251
+#EXTINF:-1,iptv free list/LA: SYFY
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20250
+#EXTINF:-1,iptv free list/LA: SPACE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20240
+#EXTINF:-1,iptv free list/LA: SONY
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20248
+#EXTINF:-1,iptv free list/LA: RCN NOVELAS US
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20301
+#EXTINF:-1,iptv free list/LA: PARAMOUNT CHANNEL HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20238
+#EXTINF:-1,iptv free list/LA: CNN INT
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20256
+#EXTINF:-1,iptv free list/LA: CNN ESPANOL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20294
+#EXTINF:-1,iptv free list/LA: NAT GEO WILD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20246
+#EXTINF:-1,iptv free list/LA: NAT GEO KIDS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20152
+#EXTINF:-1,iptv free list/LA: NAT GEO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20247
+#EXTINF:-1,iptv free list/LA: NAT GEO KIDS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20431
+#EXTINF:-1,iptv free list/LA: MAX PRIME HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20283
+#EXTINF:-1,iptv free list/LA: MAX UP HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20216
+#EXTINF:-1,iptv free list/LA: ID
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20243
+#EXTINF:-1,iptv free list/LA: INTI  HD CLCL 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20217
+#EXTINF:-1,iptv free list/LA: DW1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20316
+#EXTINF:-1,iptv free list/LA: HISTORY CH
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20236
+#EXTINF:-1,iptv free list/LA: FILM & ARTS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20098
+#EXTINF:-1,iptv free list/LA: CINE MARVEL HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20308
+#EXTINF:-1,iptv free list/LA: ESPN PLUS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20062
+#EXTINF:-1,iptv free list/LA: ESPN 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20267
+#EXTINF:-1,iptv free list/LA: ESPN 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20268
+#EXTINF:-1,iptv free list/LA: ESPN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20269
+#EXTINF:-1,iptv free list/LA: E! ENTERTAIMENTS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20272
+#EXTINF:-1,iptv free list/LA: NICKTOONS - MEX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20025
+#EXTINF:-1,iptv free list/LA: NICK JR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20307
+#EXTINF:-1,iptv free list/LA: NICKELODEON
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20306
+#EXTINF:-1,iptv free list/LA: NICK 2 HD MX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20416
+#EXTINF:-1,iptv free list/LA: DISNEY XD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+#EXTINF:-1,iptv free list/LA: DISNEY JR SPAIN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20274
+#EXTINF:-1,iptv free list/LA: DISNEY CHANNEL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20224
+#EXTINF:-1,iptv free list/LA: BABY TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20110
+#EXTINF:-1,iptv free list/LA: COMEDY CENTRAL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20167
+#EXTINF:-1,iptv free list/LA: CINE MAX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20293
+#EXTINF:-1,iptv free list/LA: CINE CANAL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20297
+#EXTINF:-1,iptv free list/LA: FUTV HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20023
+#EXTINF:-1,iptv free list/LA: CARTOON NETWORK
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20292
+#EXTINF:-1,iptv free list/LA: BOX NATION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20028
+#EXTINF:-1,iptv free list/LA: BOOMERANG
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20299
+#EXTINF:-1,iptv free list/LA: BBC WORLD NEWS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20063
+#EXTINF:-1,iptv free list/LA: AXN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20298
+#EXTINF:-1,iptv free list/LA: ANIMAL PLANET
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20296
+#EXTINF:-1,iptv free list/LA: AMC
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20303
+#EXTINF:-1,iptv free list/LA: A&E
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20302
+#EXTINF:-1,iptv free list/LA: TRU TV COL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20425
+#EXTINF:-1,iptv free list/LA: TLC
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20426
+#EXTINF:-1,iptv free list/LA: STUDIO UNIVERSAL.
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20429
+#EXTINF:-1,iptv free list/LA: RCN NUESTRATELE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20430
+#EXTINF:-1,iptv free list/LA: MTV HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20417
+#EXTINF:-1,iptv free list/LA: LIFETIME HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20403
+#EXTINF:-1,iptv free list/LA: HTV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20435
+#EXTINF:-1,iptv free list/LA: BLOOMBERG HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20421
+#EXTINF:-1,iptv free list/LA: INDIEPLEX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20350
+#EXTINF:-1,iptv free list/LA: TELEMUNDO - ARG
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/31936
+#EXTINF:-1,iptv free list/LA: ANTENA 3
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20047
+#EXTINF:-1,iptv free list/LA: EL SEMBRADOR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/19998
+#EXTINF:-1,iptv free list/LA: CINE ACCION HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20077
+#EXTINF:-1,iptv free list/LA: TELECENTRO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20061
+#EXTINF:-1,iptv free list/LA: MASCHIC HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20434
+#EXTINF:-1,iptv free list/LA: CANAL 4 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20414
+#EXTINF:-1,iptv free list/LA: CINE MAX ACTION HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20359
+#EXTINF:-1,iptv free list/LA: MOREMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20349
+#EXTINF:-1,iptv free list/LA: MOVIEMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20348
+#EXTINF:-1,iptv free list/LA: MOVIEPLEX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20347
+#EXTINF:-1,iptv free list/LA: OUTERMAX HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20346
+#EXTINF:-1,iptv free list/LA: SHOWTIME BEYOND HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20344
+#EXTINF:-1,iptv free list/LA: SHOWTIME EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20343
+#EXTINF:-1,iptv free list/LA: SHOWTIME HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20342
+#EXTINF:-1,iptv free list/LA: SHOWTIME WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20340
+#EXTINF:-1,iptv free list/LA: STARZ BLACK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20339
+#EXTINF:-1,iptv free list/LA: STARZ CINEMA HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20338
+#EXTINF:-1,iptv free list/LA: STARZ COMEDY HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20337
+#EXTINF:-1,iptv free list/LA: STARZ EAST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20335
+#EXTINF:-1,iptv free list/LA: STARZ EDGE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20334
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE ACTION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20333
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE BLACK HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20332
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE CLASSIC HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20331
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE FAMILY HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20330
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20329
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE SUSPENSE HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20327
+#EXTINF:-1,iptv free list/LA: STARZ ENCORE WESTERN HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20326
+#EXTINF:-1,iptv free list/LA: STARZ FAMILY HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20325
+#EXTINF:-1,iptv free list/LA: STARZ HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20324
+#EXTINF:-1,iptv free list/LA: STARZ KIDS & FAMILY HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20323
+#EXTINF:-1,iptv free list/LA: STARZ WEST HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20322
+#EXTINF:-1,iptv free list/------Mexico------
+http://bbiptv.net:8000/live/indiansatrestreamer/CVZFK4q4qZ/2620.ts
+#EXTINF:-1,iptv free list/MEX: TelefÃ³rmula
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20313
+#EXTINF:-1,iptv free list/MEX: TELEHIT PLUS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20090
+#EXTINF:-1,iptv free list/MEX: TV MAS VERACRUZ
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20091
+#EXTINF:-1,iptv free list/MEX: CANAL ONCE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20054
+#EXTINF:-1,iptv free list/MEX: TELENOVELAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20169
+#EXTINF:-1,iptv free list/MEX: TELERITMO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20093
+#EXTINF:-1,iptv free list/MEX: CANAL 26 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20107
+#EXTINF:-1,iptv free list/MEX: CANAL 8
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20108
+#EXTINF:-1,iptv free list/MEX: AYM Sport
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20113
+#EXTINF:-1,iptv free list/MEX: TELEVISA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20052
+#EXTINF:-1,iptv free list/MEX: AZTECA MUNDO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/19999
+#EXTINF:-1,iptv free list/MEX: AXN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20111
+#EXTINF:-1,iptv free list/MEX: WOBI HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20428
+#EXTINF:-1,iptv free list/MEX: GARAGE TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20183
+#EXTINF:-1,iptv free list/MEX: HOLA TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20071
+#EXTINF:-1,iptv free list/MEX: ADN40 HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20196
+#EXTINF:-1,iptv free list/MEX: AZTECA CORAZON
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20049
+#EXTINF:-1,iptv free list/MEX: AZTECA CINEMA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20026
+#EXTINF:-1,iptv free list/MEX: AZTECA 7
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20168
+#EXTINF:-1,iptv free list/MEX: LAS ESTRELLAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20295
+#EXTINF:-1,iptv free list/MEX: CANAL DE LAS ESTRELLAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20291
+#EXTINF:-1,iptv free list/MEX: CANAL JUDICIAL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20413
+#EXTINF:-1,iptv free list/MEX: GOLDEN EDGE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20165
+#EXTINF:-1,iptv free list/MEX: GOLDEN
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20290
+#EXTINF:-1,iptv free list/MEX: MULTIMEDIOS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20432
+#EXTINF:-1,iptv free list/MEX: MEXIQUICE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20397
+#EXTINF:-1,iptv free list/MEX: GOLF CH
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20419
+#EXTINF:-1,iptv free list/MEX: GOLDEN PLUS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20420
+#EXTINF:-1,iptv free list/MEX: FILM & ART
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20399
+#EXTINF:-1,iptv free list/MEX: AZTECA CLICK
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20404
+#EXTINF:-1,iptv free list/MEX: AZTECA 7 HD OPC 1
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20164
+#EXTINF:-1,iptv free list/MEX: AZTECA 1 HD OPC 2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20163
+#EXTINF:-1,iptv free list/MEX: DISTRITO COMEDIA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/19997
+#EXTINF:-1,iptv free list/MEX: DE PELICULA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20273
+#EXTINF:-1,iptv free list/MEX: UNICABLE
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20088
+#EXTINF:-1,iptv free list/MEX: AZTECA UNO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20255
+#EXTINF:-1,iptv free list/MEX: MAS CHIC
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20048
+#EXTINF:-1,iptv free list/------Dominica Republic------
+http:bank.watchhost.tk:84500liveamanpree9346.ts
+#EXTINF:-1,iptv free list/DOM: TELEVISON DOMINICANA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20114
+#EXTINF:-1,iptv free list/DOM: TELE 11
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148546
+#EXTINF:-1,iptv free list/DOM: CDN 37 RD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20051
+#EXTINF:-1,iptv free list/DOM: CANAL DEL SOL
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20182
+#EXTINF:-1,iptv free list/DOM: DIGITAL 15
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20007
+#EXTINF:-1,iptv free list/DOM: CDN2
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20014
+#EXTINF:-1,iptv free list/DOM: COLOR VISION 9
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20013
+#EXTINF:-1,iptv free list/DOM: DOMINICAN VIEW
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20012
+#EXTINF:-1,iptv free list/DOM: TELE ANTILLAS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20006
+#EXTINF:-1,iptv free list/DOM: TELEMICRO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20005
+#EXTINF:-1,iptv free list/DOM: TELECENTRO 13
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20011
+#EXTINF:-1,iptv free list/DOM: TELESISTEMA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20010
+#EXTINF:-1,iptv free list/DOM: TELEUNION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20009
+#EXTINF:-1,iptv free list/DOM: TELEUNIVERSO 29
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20008
+#EXTINF:-1,iptv free list/----------EI Salvador----------
+http:bank.watchhost.tk:8920liveamanpree9921.ts
+#EXTINF:-1,iptv free list/EL SALVADOR: WOW TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20170
+#EXTINF:-1,iptv free list/EL SALVADOR: CANAL 2 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148606
+#EXTINF:-1,iptv free list/EL SALVADOR: CANAL 4
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148605
+#EXTINF:-1,iptv free list/EL SALVADOR: CANAL 6
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148607
+#EXTINF:-1,iptv free list/EL SALVADOR: CANAL 12  
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148608
+#EXTINF:-1,iptv free list/EL SALVADOR: TABER 17
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148611
+#EXTINF:-1,iptv free list/EL SALVADOR: CANAL 19 
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148609
+#EXTINF:-1,iptv free list/EL SALVADOR: TVES CANAL 10
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397186
+#EXTINF:-1,iptv free list/EL SALVADOR: VTV CANAL 35
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20002
+#EXTINF:-1,iptv free list/EL SALVADOR: 6 EL SALVADOR
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/397185
+#EXTINF:-1,iptv free list/EL SALVADOR: TELE EL SALVADOR HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20004
+#EXTINF:-1,iptv free list/EL SALVADOR: MEGAVISION Canal 19
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20003
+#EXTINF:-1,iptv free list/EL SALVADOR: MEGAVISION Canal 21
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/148610
+#EXTINF:-1,iptv free list/----------Puerto Rico----------
+http:bank.watchhost.tk:8810liveamanpree9911.ts
+#EXTINF:-1,iptv free list/PUERTO RICO: PUNTO2 TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154502
+#EXTINF:-1,iptv free list/PUERTO RICO: WAPA
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154505
+#EXTINF:-1,iptv free list/PERU: MOVISTAR PLUS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20214
+#EXTINF:-1,iptv free list/PUERTO RICO: TELEMUNDO
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/154506
+#EXTINF:-1,iptv free list/PUERTO RICO: MEGA TV
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/239339
+#EXTINF:-1,iptv free list/PUERTO RICO: UNIVISION
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/340580
